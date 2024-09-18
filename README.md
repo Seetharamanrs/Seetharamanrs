@@ -64,7 +64,5 @@
 <hr/>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seetharamanrs&" alt="seetharamanrs" /></p>
-
-<img align="center" alt="Coding" width="1100" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/475eb095746151.5e9ecde695f7a.gif">
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=seetharamanrs&" alt="seetharamanrs" /></p>
 
