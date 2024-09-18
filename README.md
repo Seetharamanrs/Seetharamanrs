@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/475eb095746151.5e9ecde695f7a.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/475eb095746151.5e9ecde695f7a.gif)
 <h1 align="center">Hi 👋, I'm Seetharaman</h1>
 <h3 align="center">A passionate Machine learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQFOTlbEnng1cg/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1578065396766?e=1729728000&v=beta&t=xc7J04h4SmcPwLj2wXuzDvYADizEhZ6Z8ZGqAbFbO9Q">
