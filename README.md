@@ -1,6 +1,6 @@
 
-<h1 align="left" style="font-size: 48px;">Hi 👋, I'm Seetharaman Radhakrishnan</h1>
-<h3 align="left" style="font-size: 24px;">A Passionate Machine Learning Engineer.</h3>
+<h1 align="center" style="font-size: 48px;">Hi 👋, I'm Seetharaman Radhakrishnan</h1>
+<h3 align="center" style="font-size: 24px;">A Passionate Machine Learning Engineer.</h3>
 
 <hr/>
 <img align="center" alt="Coding" width="1100" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif">
