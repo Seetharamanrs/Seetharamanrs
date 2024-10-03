@@ -10,7 +10,7 @@
 
 <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 18px; color: #555;">
   <li>🚀 I’m currently learning <strong style="color: #007bff;">Machine Learning</strong></li>
-  <li>🔗 All of my projects are available at <a href="YOUR_PROJECTS_URL" style="color: #007bff;">https://github.com/Seetharamanrs/seetharamanrs</a></li>
+  <li>🔗 All of my projects are available at <a href="YOUR_PROJECTS_URL" style="color: #007bff;">https://github.com/Seetharamanrs/projects</a></li>
   <li>🤔 Ask me about <strong style="color: #007bff;">Python, Machine Learning, Deep Learning</strong></li>
 </ul>
 
